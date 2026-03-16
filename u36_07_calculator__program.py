@@ -5,6 +5,7 @@ def main():
     operation = input('Operation +-*/  >')
     number_2 = input('Number 2  >')
     calculate_number(number_1,operation,number_2)
+    # add text to folder 1
         
 def calculate_number(number_1,operation,number_2):
     if number_1.isdigit() == False:
