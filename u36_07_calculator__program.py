@@ -7,6 +7,7 @@ def main():
     calculate_number(number_1,operation,number_2)
         
 def calculate_number(number_1,operation,number_2):
+    # add from folder2
     if number_1.isdigit() == False:
         pass
     if number_1.isdigit() is False:
